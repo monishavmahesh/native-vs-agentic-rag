@@ -7,8 +7,8 @@ The Agentic RAG School Assistant is an educational AI system that uses Retrieval
 ***
 
 ## 2. System Overview
-text
-📁 Project Structure
+### 📁 Project Structure
+```
 ├── app.py                 # Streamlit web interface
 ├── config.py              # Configuration settings
 ├── requirements.txt       # Python dependencies
@@ -23,7 +23,7 @@ text
     ├── math.pdf
     ├── english.pdf
     └── evs.pdf
-
+```
 
 ### 2.1 Core Capabilities
 
